@@ -18,6 +18,6 @@ J'ai également le BAFA, mais je ne fait pas pour autant de Baby sitting.
 * Mais Pourquoi ?
 
 Je suis inscrit à cette formation car je cherche a me reconvertir dans un domaine qui me plaît, et pour la première fois de ma vie je fait
-quelque chose qui me plaît et me correspon. Quelque chose pour moi.
+quelque chose qui me plaît et me correspond. Quelque chose pour moi.
 J'ai envie d'un métier de créateur mais ou il faut aussi de l'analyse et de la logique.
 J'attends de la formation quelle face de moi un artisan du web.
