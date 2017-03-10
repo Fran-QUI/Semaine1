@@ -35,8 +35,25 @@ Voici une [URL](https://search.lilo.org/)
 
 Voici une image hébergée en ligne : 
 
-[Mario qui monte](https://media.giphy.com/media/jH395r5RaeSIM/giphy.gif)
+![Mario qui monte](https://media.giphy.com/media/jH395r5RaeSIM/giphy.gif)
 
 Voici une image hébergée localement :
 
-[Une image temoin](/Image_temoin.png)
+![Une image temoin](/Image_temoin.png)
+
+On peux faire des cases a cocher :
+
+- [   ] Choix 1
+- [X] Choix 2
+- [  ] Choix 3
+
+
+Un tableau
+
+
+| Titres | Colonne 1 | Colonne 2 |
+|--------|-----------|-----------|
+|Ligne 1 | vide      |rien       |
+|--------|-----------|-----------|
+|Ligne 2 |blanc      |noir       |
+
