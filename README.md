@@ -1,9 +1,11 @@
-# Semaine1
+# FRANCOIS QUIVRON__
 
 ## Présentation :
 
 Je m'appelle __François QUIVRON__, *J'ai 34 ans*.
+
 J'aime : 
+
 * les jeux de société de stratégie et d'ambiance,voir tout les jeux en général du moment que le hazard ne te pourrisse pas ta stratégie.  
 * les chats
 * regarder les étoiles
@@ -15,9 +17,10 @@ Je dessine et je joue également de la musique (saxo, flûte traversiaire, tin w
 ## Mes formations :
 
 Ma formation principale est un équivalent BAC+4 "Responsable QHSE (qualité, hygiène, sécurité, environnement)"
+
 1. C'est un trés joli nom mais ça ne m'a pas permis de trouver de travail dans la région. 
 2. J'ai ensuite appris grace à mon précédent métier (alimentaire) à répondre au téléphone (poliment) et à écrire de jolis courriers (en Français).
-3. J'ai également le BAFA, mais je ne fait pas pour autant de Baby sitting.
+3. J'ai également le BAFA, mais je ne fais pour autant pas de Baby sitting.
 
 ## Mais Pourquoi ?
 
@@ -25,3 +28,8 @@ Je suis inscrit à cette formation car je cherche a me reconvertir dans un domai
 quelque chose qui me plaît et me correspond. Quelque chose pour moi.
 J'ai envie d'un métier de créateur mais ou il faut aussi de l'analyse et de la logique.
 J'attends de la formation quelle face de moi un artisan du web.
+
+> "Je vais bien, tout va bien..."
+
+
+
