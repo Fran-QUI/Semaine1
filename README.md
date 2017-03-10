@@ -31,5 +31,12 @@ J'attends de la formation quelle face de moi un artisan du web.
 
 > "Je vais bien, tout va bien..."
 
+Voici une [URL](https://search.lilo.org/)
 
+Voici une image hébergée en ligne : 
 
+[Mario qui monte](https://media.giphy.com/media/jH395r5RaeSIM/giphy.gif)
+
+Voici une image hébergée localement :
+
+[Une image temoin](/Image_temoin.png)
